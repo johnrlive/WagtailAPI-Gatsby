@@ -42,5 +42,5 @@ For versions available see the tags on this repo
 ## License
 
 ## Acknowledgements
-*My mom
-*Beyonce
+* My mom
+* Beyonce
