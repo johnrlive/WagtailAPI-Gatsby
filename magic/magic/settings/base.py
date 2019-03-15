@@ -27,6 +27,8 @@ INSTALLED_APPS = [
     'home',
     'search',
 
+    'wagtail.api.v2',
+
     'wagtail.contrib.forms',
     'wagtail.contrib.redirects',
     'wagtail.embeds',
@@ -41,6 +43,8 @@ INSTALLED_APPS = [
 
     'modelcluster',
     'taggit',
+
+    'rest_framework',
 
     'django.contrib.admin',
     'django.contrib.auth',
